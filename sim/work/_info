@@ -1,0 +1,62 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DOING/00-GRAD/03-learn/Code/IF_SPI
+T_opt
+!s110 1679122908
+V4Zb7L6Jj95<@FQj[bF=7K2
+04 2 4 work tb fast 0
+=1-54e1ad54b2df-641561d8-2-3d04
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vaxi_stream_insert_header
+Z2 !s110 1679405983
+!i10b 1
+!s100 nHAb]hVSE8lfFm>RWg9T<0
+IoGMC_W`WLZAHWAQTm9Qgk2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 dD:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/sim
+w1679405930
+8../rtl/axi_stream_insert_header.v
+F../rtl/axi_stream_insert_header.v
+L0 1
+Z5 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z6 !s108 1679405983.000000
+!s107 ../rtl/axi_stream_insert_header.v|D:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/tb/tb.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/tb/tb.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtb
+R2
+!i10b 1
+!s100 a0RFhNoF`gSoMV6<63h7]3
+INzG[4gK8SI@Ce7Nc0T_HM3
+R3
+R4
+w1679405953
+8D:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/tb/tb.v
+FD:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/tb/tb.v
+L0 5
+R5
+r1
+!s85 0
+31
+R6
+Z9 !s107 ../rtl/axi_stream_insert_header.v|D:/DOING/00-GRAD/03-learn/Code/IF_AXI_Header/tb/tb.v|
+R7
+!i113 0
+R8
+R1
